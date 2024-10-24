@@ -1,1 +1,1 @@
-/Users/filozopdasha/Desktop/practice_4_filozop/pest_01/target/debug/pest_01: /Users/filozopdasha/Desktop/practice_4_filozop/pest_01/src/grammar.pest /Users/filozopdasha/Desktop/practice_4_filozop/pest_01/src/main.rs
+/Users/filozopdasha/Desktop/practice_4_filozop/pest_01_filozop/target/debug/pest_01: /Users/filozopdasha/Desktop/practice_4_filozop/pest_01_filozop/src/grammar.pest /Users/filozopdasha/Desktop/practice_4_filozop/pest_01_filozop/src/main.rs
